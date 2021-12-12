@@ -1,0 +1,11 @@
+name: movierecommender
+title:
+username:
+account: edwincahyadi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5268811
+bundleId: 5362880
+url: https://edwincahyadi.shinyapps.io/movierecommender/
+when: 1639326409.84336
+lastSyncTime: 1639326409.84336
